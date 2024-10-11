@@ -46,7 +46,7 @@
                     &copy; <a class="border-bottom" href="#">Onyx Medical Center</a>, Tous droits réservés.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    Conçu par <a class="border-bottom" href="https://htmlcodex.com">Vincent</a>
+                    Conçu par Vincent
                 </div>
             </div>
         </div>
